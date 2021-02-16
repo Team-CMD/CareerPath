@@ -1,5 +1,7 @@
-![Titleimg](https://github.com/Team-CMD/CareerPath/Assets/img/title.PNG)
-# Career Path
+<p align="center">
+  <img src="https://github.com/Team-CMD/CareerPath/blob/main/Assets/img/title.PNG"/>
+</p>
+<h1 align="center">Career Path</h1>
 
 ### 📒 Introduction
 > 본 컨텐츠는 `Team CMD`의 진로상담 및 개인역량 향상을 위해 만든 자료로서, `CMD`팀원 및 기여자를 제외한 타인의 무단배포 및  공유를 금합니다.

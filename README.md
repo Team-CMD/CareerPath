@@ -18,6 +18,8 @@ ___
 - [Awesome-DevTeam](https://github.com/leehosung/awesome-devteam)
 
 #### 프로젝트용 활용자료
+- [개발자의 기초소양 #1 개인 깃헙 프로필 만들기!](https://zzsza.github.io/development/2020/07/10/make-github-profile-readme/)
+- [개발자의 기초소양 #1-2 Shield.io](https://shields.io/)
 - [고퀄리티⚡개발 컨텐츠 모음](https://github.com/Integerous/goQuality-dev-contents)
 - [한국어 사용자를 위한 서비스에 사용하기 위한 오픈 API 모음](https://github.com/dl0312/open-apis-korea)
 - [생활코딩 Youtube](https://www.youtube.com/channel/UCvc8kv-i5fvFTJBFAk6n1SA)

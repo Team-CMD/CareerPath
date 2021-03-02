@@ -3,14 +3,14 @@
 </p>
 <h1 align="center">Career Path</h1>
 
-### 📒 Introduction
+## 📒 Introduction
 > 본 컨텐츠는 `Team CMD`의 진로상담 및 개인역량 향상을 위해 만든 자료로서, `CMD`팀원 및 기여자를 제외한 타인의 무단배포 및  공유를 금합니다.
 ___  
-### 📔 Contributor 
+## 📔 Contributor 
 > *[JH9892](https://github.com/JH9892) in `CMD`*, 
 > *Thank you for any other contributor helps make this information :)*
 ___  
-### 📕 Categories
+## 📕 Categories
 #### 진로 / 취준 활용자료
 - [Tech Interview Question for Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 - [이것이 코딩테스트다! 소스코드](https://github.com/ndb796/python-for-coding-test)

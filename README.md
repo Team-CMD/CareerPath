@@ -33,3 +33,4 @@ ___
 - [30 Days of React](https://github.com/Asabeneh/30-Days-Of-React)
 - [Intro to JavaScript ( Node.js )](https://github.com/microsoft/beginners-intro-javascript-node)
 - [박상권의 삽질블로그 : 안드로이드 개발](https://medium.com/%EB%B0%95%EC%83%81%EA%B6%8C%EC%9D%98-%EC%82%BD%EC%A7%88%EB%B8%94%EB%A1%9C%EA%B7%B8)
+- [2021 Web Development Tech Tree](https://youtu.be/kjSZ7JKVdbQ)

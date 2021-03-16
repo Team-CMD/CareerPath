@@ -16,6 +16,7 @@ ___
 - [이것이 코딩테스트다! 소스코드](https://github.com/ndb796/python-for-coding-test)
 - [👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖](https://github.com/gyoogle/tech-interview-for-developer)
 - [Awesome-DevTeam](https://github.com/leehosung/awesome-devteam)
+- [Brave Tech Interview](https://github.com/brave-people/brave-tech-interview)
 
 #### 프로젝트용 활용자료
 - [개발자의 기초소양 #1 개인 깃헙 프로필 만들기!](https://zzsza.github.io/development/2020/07/10/make-github-profile-readme/)

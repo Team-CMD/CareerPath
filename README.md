@@ -51,3 +51,11 @@ ___
 - [Machine Learning study for Beginner](https://github.com/teddylee777/machine-learning)
 ##### ⅵ. AWS
 - [AWS EC2 SSH 접속가이드](https://youtu.be/oMVfhT_xlzk)
+##### ⅶ. Design
+- [Dribble : 디자이너들의 포폴공유 사이트](https://dribbble.com/)
+- [Awwards : 우수 웹디자인 선발 사이트](https://www.awwwards.com/)
+- [UXArchive : 스마트폰 ux제공 사이트](https://uxarchive.com/)
+- [Pttrns. : 모바일 ux디자인 사이트](https://pttrns.com/)
+- [CARGO : 웹 사이트 디자인템플릿](https://cargo.site/Templates)
+- [siteInspire : 사이트 디자인 영감사이트](https://www.siteinspire.com/)
+- [Dark Mode Design : 다크모드 디자인템플릿 사이트](https://www.darkmodedesign.com/)

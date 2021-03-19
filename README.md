@@ -20,6 +20,7 @@ ___
 ___ 
 #### Ⅱ. 코딩 테스트 관련 자료
 - [이것이 코딩테스트다! 소스코드](https://github.com/ndb796/python-for-coding-test)
+- [WearSoft 코딩 테스트 기초자료](https://github.com/WeareSoft/tech-interview)
 ___ 
 #### Ⅲ. 프로젝트용 활용자료
 - [고퀄리티⚡개발 컨텐츠 모음](https://github.com/Integerous/goQuality-dev-contents)

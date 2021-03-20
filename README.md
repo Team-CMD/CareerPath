@@ -50,6 +50,7 @@ ___
 - [박상권의 삽질블로그 : 안드로이드 개발](https://medium.com/%EB%B0%95%EC%83%81%EA%B6%8C%EC%9D%98-%EC%82%BD%EC%A7%88%EB%B8%94%EB%A1%9C%EA%B7%B8)
 ##### ⅴ. 머신러닝
 - [Machine Learning study for Beginner](https://github.com/teddylee777/machine-learning)
+- [NDB's 딥러닝 논문 리뷰](https://github.com/ndb796/Deep-Learning-Paper-Review-and-Practice)
 ##### ⅵ. AWS
 - [AWS EC2 SSH 접속가이드](https://youtu.be/oMVfhT_xlzk)
 ##### ⅶ. Design

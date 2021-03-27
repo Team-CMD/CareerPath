@@ -11,12 +11,13 @@ ___
 > *Thank you for any other contributor helps make this information :)*
 ___  
 ## 📕 Categories
-#### Ⅰ. 진로 / 취준 활용자료
+#### Ⅰ. 진로 / 취준 / 개발관련 행사안내 및 활용자료
 - [Tech Interview Question for Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 - [👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖](https://github.com/gyoogle/tech-interview-for-developer)
 - [Awesome-DevTeam](https://github.com/leehosung/awesome-devteam)
 - [Brave Tech Interview](https://github.com/brave-people/brave-tech-interview)
 - [취준에 도움되는 링크 : 컴공편](https://velog.io/@woo0_hooo/%EC%BB%B4%EA%B3%B5-%EC%B7%A8%EC%A4%80%EC%83%9D%EC%97%90%EA%B2%8C-%EC%9C%A0%EC%9A%A9%ED%95%9C-%EB%A7%81%ED%81%AC%EB%93%A4-%EC%A0%95%EB%A6%AC?fbclid=IwAR339EMi0oyEgvOsWfGWRiZBYYDQj7WgivzZ4fD36g1VGSOvIencaqfsamM)
+- [개발자 행사모음](https://github.com/brave-people/Dev-Event)
 ___ 
 #### Ⅱ. 코딩 테스트 관련 자료
 - [이것이 코딩테스트다! 소스코드](https://github.com/ndb796/python-for-coding-test)

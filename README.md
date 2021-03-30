@@ -52,6 +52,7 @@ ___
 ##### ⅴ. 머신러닝
 - [Machine Learning study for Beginner](https://github.com/teddylee777/machine-learning)
 - [NDB's 딥러닝 논문 리뷰](https://github.com/ndb796/Deep-Learning-Paper-Review-and-Practice)
+- [Weekly NLP](https://jiho-ml.com/weekly-nlp-0/)
 ##### ⅵ. AWS
 - [AWS EC2 SSH 접속가이드](https://youtu.be/oMVfhT_xlzk)
 ##### ⅶ. Design

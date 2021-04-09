@@ -31,6 +31,7 @@ ___
 - [개발자의 기초소양 #1 개인 깃헙 프로필 만들기!](https://zzsza.github.io/development/2020/07/10/make-github-profile-readme/)
 - [개발자의 기초소양 #1-2 Shield.io](https://shields.io/)
 - [Git초보자를 위한 git 강의:팀 단위 프로젝트](https://youtu.be/FmsshPRJotE)
+- [Learn Git Branching](https://learngitbranching.js.org/?locale=ko)
 ___ 
 #### Ⅴ. 프로그래밍 언어/분야별 활용자료
 ##### ⅰ. 공통

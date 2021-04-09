@@ -7,7 +7,7 @@
 > 본 컨텐츠는 `Team CMD`의 진로상담 및 개인역량 향상을 위해 만든 레포지토리로서,  
 > `CMD`팀원과 `Supporter`, `Contributor`를 제외한 타인의 무단배포 및 공유를 금합니다.
 ___  
-# 📔 Contributor 
+# 📔 Supporter & Contributor 
 <table>
   <tr>
     <a href="https://github.com/hm5938" align="center">

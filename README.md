@@ -50,17 +50,21 @@ ___
 - [Intro to JavaScript ( Node.js )](https://github.com/microsoft/beginners-intro-javascript-node)
 ##### ⅳ. 모바일 개발
 - [박상권의 삽질블로그 : 안드로이드 개발](https://medium.com/%EB%B0%95%EC%83%81%EA%B6%8C%EC%9D%98-%EC%82%BD%EC%A7%88%EB%B8%94%EB%A1%9C%EA%B7%B8)
+- [Android Weekly](https://medium.com/@androidtechweekly)
+- [Android Arsenal : 안드로이드 라이브러리 모음집](https://android-arsenal.com/)
+- 
 ##### ⅴ. 머신러닝
 - [Machine Learning study for Beginner](https://github.com/teddylee777/machine-learning)
 - [NDB's 딥러닝 논문 리뷰](https://github.com/ndb796/Deep-Learning-Paper-Review-and-Practice)
 - [Weekly NLP](https://jiho-ml.com/weekly-nlp-0/)
 ##### ⅵ. AWS
 - [AWS EC2 SSH 접속가이드](https://youtu.be/oMVfhT_xlzk)
-##### ⅶ. Design
+##### ⅶ. All of Design
 - [Dribble : 디자이너들의 포폴공유 사이트](https://dribbble.com/)
 - [Awwards : 우수 웹디자인 선발 사이트](https://www.awwwards.com/)
 - [UXArchive : 스마트폰 ux제공 사이트](https://uxarchive.com/)
 - [Pttrns. : 모바일 ux디자인 사이트](https://pttrns.com/)
+- [Uplabs : Android ux/ui design template](https://www.uplabs.com/templates/android)
 - [CARGO : 웹 사이트 디자인템플릿](https://cargo.site/Templates)
 - [siteInspire : 사이트 디자인 영감사이트](https://www.siteinspire.com/)
 - [Dark Mode Design : 다크모드 디자인템플릿 사이트](https://www.darkmodedesign.com/)

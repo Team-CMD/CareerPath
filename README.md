@@ -3,15 +3,15 @@
 </p>
 <h1 align="center">Career Path</h1>
 
-## 📒 Introduction
+# 📒 Introduction
 > 본 컨텐츠는 `Team CMD`의 진로상담 및 개인역량 향상을 위해 만든 자료로서, `CMD`팀원 및 기여자를 제외한 타인의 무단배포 및  공유를 금합니다.
 ___  
-## 📔 Contributor 
+# 📔 Contributor 
 > *[JH9892](https://github.com/JH9892) in `CMD`*, 
 > *Thank you for any other contributor helps make this information :)*
 ___  
-## 📕 Categories
-#### Ⅰ. 진로 / 취준 / 개발관련 행사안내 및 활용자료
+# 📕 Categories
+### Ⅰ. 진로 / 취준 / 개발관련 행사안내 및 활용자료
 - [Tech Interview Question for Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 - [👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖](https://github.com/gyoogle/tech-interview-for-developer)
 - [Awesome-DevTeam](https://github.com/leehosung/awesome-devteam)
@@ -19,7 +19,7 @@ ___
 - [취준에 도움되는 링크 : 컴공편](https://velog.io/@woo0_hooo/%EC%BB%B4%EA%B3%B5-%EC%B7%A8%EC%A4%80%EC%83%9D%EC%97%90%EA%B2%8C-%EC%9C%A0%EC%9A%A9%ED%95%9C-%EB%A7%81%ED%81%AC%EB%93%A4-%EC%A0%95%EB%A6%AC?fbclid=IwAR339EMi0oyEgvOsWfGWRiZBYYDQj7WgivzZ4fD36g1VGSOvIencaqfsamM)
 - [개발자 행사모음](https://github.com/brave-people/Dev-Event)
 ___ 
-#### Ⅱ. 코딩 테스트 관련 자료
+### Ⅱ. 코딩 테스트 관련 자료
 - [이것이 코딩테스트다! 소스코드](https://github.com/ndb796/python-for-coding-test)
 - [WearSoft 코딩 테스트 기초자료](https://github.com/WeareSoft/tech-interview)
 ___ 
@@ -27,13 +27,13 @@ ___
 - [고퀄리티⚡개발 컨텐츠 모음](https://github.com/Integerous/goQuality-dev-contents)
 - [한국어 사용자를 위한 서비스에 사용하기 위한 오픈 API 모음](https://github.com/dl0312/open-apis-korea)
 ___ 
-#### Ⅳ. VCS
+### Ⅳ. VCS
 - [개발자의 기초소양 #1 개인 깃헙 프로필 만들기!](https://zzsza.github.io/development/2020/07/10/make-github-profile-readme/)
 - [개발자의 기초소양 #1-2 Shield.io](https://shields.io/)
 - [Git초보자를 위한 git 강의:팀 단위 프로젝트](https://youtu.be/FmsshPRJotE)
 - [Learn Git Branching](https://learngitbranching.js.org/?locale=ko)
 ___ 
-#### Ⅴ. 프로그래밍 언어/분야별 활용자료
+### Ⅴ. 프로그래밍 언어/분야별 활용자료
 ##### ⅰ. 공통
 - [Help for Everybody](https://github.com/ljh0326/helpForEverybody)
 - [생활코딩 Youtube](https://www.youtube.com/channel/UCvc8kv-i5fvFTJBFAk6n1SA)

@@ -4,10 +4,52 @@
 <h1 align="center">Career Path</h1>
 
 # 📒 Introduction
-> 본 컨텐츠는 `Team CMD`의 진로상담 및 개인역량 향상을 위해 만든 자료로서, `CMD`팀원 및 기여자를 제외한 타인의 무단배포 및  공유를 금합니다.
+> 본 컨텐츠는 `Team CMD`의 진로상담 및 개인역량 향상을 위해 만든 레포지토리로서,  
+> `CMD`팀원과 `Supporter`, `Contributor`를 제외한 타인의 무단배포 및 공유를 금합니다.
 ___  
 # 📔 Contributor 
-> *[JH9892](https://github.com/JH9892) in `CMD`*, 
+<table>
+  <tr>
+    <a href="https://github.com/hm5938" align="center">
+      <img src=https://img.shields.io/badge/Android-Hyemm-B39DDB?style=flat-square&logo=Android&labelColor=004D40 />
+    </ a> 
+    <a href="https://github.com/upswp" align="center">
+      <img src=https://img.shields.io/badge/Backend-Upswp-283593?style=flat-square&logo=Spring&labelColor=F9FBE7 />
+    </ a>  
+    <a href="https://github.com/PerfumedHandEssence" align="center">
+      <img src=https://img.shields.io/badge/Team.CMD-PerfumedHandEssence-FFAB00?style=flat-square&labelColor=000000 />
+    </a>
+    <a href="https://github.com/RottenTofu" align="center">
+      <img src=https://img.shields.io/badge/Team.CMD-RottenTofu-9E9E9E?style=flat-square&labelColor=000000 />
+    </a>
+    <a href="https://github.com/cood5199" align="center">
+      <img src=https://img.shields.io/badge/Team.CMD-cood5199-E1F5FE?style=flat-square&labelColor=000000 />
+    </a>
+    <a href="https://github.com/sangyeop910" align="center">
+      <img src=https://img.shields.io/badge/Team.CMD-sangyeop910-C8E6C9?style=flat-square&labelColor=000000 />
+    </a>
+    <a href="https://github.com/skm0619" align="center">
+      <img src=https://img.shields.io/badge/Team.CMD-skm0619-AB47BC?style=flat-square&labelColor=000000 />
+    </a>
+    <a href="https://github.com/HS98094" align="center">
+      <img src=https://img.shields.io/badge/Team.CMD-HS98094-5C6BC0?style=flat-square&labelColor=000000 />
+    </a>
+    <a href="https://github.com/sinbak" align="center">
+      <img src=https://img.shields.io/badge/Team.CMD-sinbak-757575?style=flat-square&labelColor=000000 />
+    </a>
+    <a href="https://github.com/
+Dejong1706" align="center">
+      <img src=https://img.shields.io/badge/Team.CMD-Dejong-1A237E?style=flat-square&labelColor=000000 />
+    </a>
+    <a href="https://github.com/Syh1999" align="center">
+      <img src=https://img.shields.io/badge/Team.CMD-Syh1999-80CBC4?style=flat-square&labelColor=000000 />
+    </a>
+    <a href="https://github.com/dbswp" align="center">
+      <img src=https://img.shields.io/badge/Team.CMD-dbswp-FFF176?style=flat-square&labelColor=000000 />
+    </a>
+  </tr>
+</table>
+
 > *Thank you for any other contributor helps make this information :)*
 ___  
 # 📕 Categories
@@ -52,7 +94,10 @@ ___
 - [박상권의 삽질블로그 : 안드로이드 개발](https://medium.com/%EB%B0%95%EC%83%81%EA%B6%8C%EC%9D%98-%EC%82%BD%EC%A7%88%EB%B8%94%EB%A1%9C%EA%B7%B8)
 - [Android Weekly](https://medium.com/@androidtechweekly)
 - [Android Arsenal : 안드로이드 라이브러리 모음집](https://android-arsenal.com/)
-- 
+- [2019 Naver Techcon Mobile-Android : 자료 공유](
+https://www.slideshare.net/NaverEngineering/techcon-2019-mobile-android3)
+- [Android Developers : Youtube Channels](https://www.youtube.com/user/androiddevelopers/videos)
+- [Android 개발자 공식 사이트](https://developer.android.com/)
 ##### ⅴ. 머신러닝
 - [Machine Learning study for Beginner](https://github.com/teddylee777/machine-learning)
 - [NDB's 딥러닝 논문 리뷰](https://github.com/ndb796/Deep-Learning-Paper-Review-and-Practice)

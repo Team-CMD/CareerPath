@@ -10,12 +10,6 @@ ___
 # 📔 Supporter & Contributor 
 <table>
   <tr>
-    <a href="https://github.com/hm5938" align="center">
-      <img src=https://img.shields.io/badge/Android-Hyemm-B39DDB?style=flat-square&logo=Android&labelColor=004D40 />
-    </ a> 
-    <a href="https://github.com/upswp" align="center">
-      <img src=https://img.shields.io/badge/Backend-Upswp-283593?style=flat-square&logo=Spring&labelColor=F9FBE7 />
-    </ a>  
     <a href="https://github.com/PerfumedHandEssence" align="center">
       <img src=https://img.shields.io/badge/Team.CMD-PerfumedHandEssence-FFAB00?style=flat-square&labelColor=000000 />
     </a>

@@ -89,6 +89,7 @@ ___
 - [박상권의 삽질블로그 : 안드로이드 개발](https://medium.com/%EB%B0%95%EC%83%81%EA%B6%8C%EC%9D%98-%EC%82%BD%EC%A7%88%EB%B8%94%EB%A1%9C%EA%B7%B8)
 - [Android Weekly](https://medium.com/@androidtechweekly)
 - [Android Arsenal : 안드로이드 라이브러리 모음집](https://android-arsenal.com/)
+- [CodePath - Android_Guides](https://github.com/codepath/android_guides)
 - [2019 Naver Techcon Mobile-Android : 자료 공유](
 https://www.slideshare.net/NaverEngineering/techcon-2019-mobile-android3)
 - [Android Developers : Youtube Channels](https://www.youtube.com/user/androiddevelopers/videos)

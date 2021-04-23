@@ -71,6 +71,7 @@ ___
 ___ 
 ### Ⅴ. 프로그래밍 언어/분야별 활용자료
 ##### ⅰ. 공통
+- [정보처리기사 실기 관련](https://youtu.be/A2Q9rLcPifk)
 - [Help for Everybody](https://github.com/ljh0326/helpForEverybody)
 - [생활코딩 Youtube](https://www.youtube.com/channel/UCvc8kv-i5fvFTJBFAk6n1SA)
 - [코딩앙마 Youtube](https://www.youtube.com/channel/UCxft4RZ8lrK_BdPNz8NOP7Q)

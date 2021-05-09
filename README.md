@@ -110,6 +110,8 @@ https://www.slideshare.net/NaverEngineering/techcon-2019-mobile-android3)
 - [NDB's 딥러닝 논문 리뷰](https://github.com/ndb796/Deep-Learning-Paper-Review-and-Practice)
 - [Weekly NLP](https://jiho-ml.com/weekly-nlp-0/)
 - [Kaggle](https://www.kaggle.com/)
+- [AI Hub](https://aihub.or.kr/)
+- [Teachable Machine](https://teachablemachine.withgoogle.com/)
 
 ##### ⅵ. AWS
 - [AWS EC2 SSH 접속가이드](https://youtu.be/oMVfhT_xlzk)

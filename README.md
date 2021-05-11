@@ -90,6 +90,11 @@ ___
 - [Flexbox Froggy](https://flexboxfroggy.com/#ko)
 - [Electron Framework official repo](https://github.com/electron/electron)
 - [Electron Framework splash-screen](https://github.com/bkniffler/electron-splashscreen)
+- [30 Seconds of code](https://www.30secondsofcode.org/)
+- [Emmet cheat sheet](https://docs.emmet.io/cheat-sheet/)
+- [HTML5 javascript API Index](http://html5index.org/)
+- [Animate.css : Useful CSS framework](https://animate.style/)
+- [Crayon.css : Useful CSS framework](https://riccardoscalco.it/crayon/)
 
 ##### ⅲ. 백엔드
 - [Backend-Interview-Question](https://github.com/ksundong/backend-interview-question)

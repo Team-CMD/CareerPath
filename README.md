@@ -67,6 +67,7 @@ ___
 - [개발자의 기초소양 #1 개인 깃헙 프로필 만들기!](https://zzsza.github.io/development/2020/07/10/make-github-profile-readme/)
 - [개발자의 기초소양 #1-2 Shield.io](https://shields.io/)
 - [Git초보자를 위한 git 강의:팀 단위 프로젝트](https://youtu.be/FmsshPRJotE)
+- [Git초보자를 위한 git 꿀팁: .gitignore 사용법](https://programming119.tistory.com/105)
 - [Learn Git Branching](https://learngitbranching.js.org/?locale=ko)
 - [센스있는 ReadMd : Markdown 작성법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
 - [센스있는 ReadMe : Boj 프로필 간지나게 표시하기](https://github.com/mazassumnida/mazassumnida)

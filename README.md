@@ -72,6 +72,8 @@ ___
 - [센스있는 ReadMd : Markdown 작성법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
 - [센스있는 ReadMe : Boj 프로필 간지나게 표시하기](https://github.com/mazassumnida/mazassumnida)
 - [센스있는 ReadMe : github readme-stats](https://github.com/anuraghazra/github-readme-stats)
+- [센스있는 ReadMe : Capsule-render](https://github.com/kyechan99/capsule-render)
+- [센스있는 ReadMe : Daily Coding Timer](https://github.com/techinpark/productive-box)
 ___ 
 ### Ⅴ. 프로그래밍 언어/분야별 활용자료
 ##### ⅰ. 공통

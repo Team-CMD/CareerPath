@@ -58,6 +58,17 @@ ___
 ### Ⅱ. 코딩 테스트 관련 자료
 - [이것이 코딩테스트다! 소스코드](https://github.com/ndb796/python-for-coding-test)
 - [WearSoft 코딩 테스트 기초자료](https://github.com/WeareSoft/tech-interview)
+- [쉽고 빠르게 점화식을 찾아보자!](https://oeis.org/)
+- [PS계의 나무위키! GeeksforGeeks](https://www.geeksforgeeks.org/)
+- [개발과 영어를 동시에, StackOverflow](https://stackoverflow.com/)
+- [국내 코테 3대장, BOJ](https://www.acmicpc.net/)
+- [국내 코테 3대장, Programmers](https://programmers.co.kr/)
+- [국내 코테 3대장, SW Expert Academy](https://swexpertacademy.com/main/main.do)
+- [CodeForce](http://codeforces.com/)
+- [PS계 바이블, 구종만 블로그](http://theyearlyprophet.com/)
+- [라이님 블로그](https://blog.naver.com/kks227/220769859177)
+- [박트리의 블로그](https://baactree.tistory.com/notice/16)
+- [Crocus 블로그](https://www.crocus.co.kr/341)
 ___ 
 ### Ⅲ. 프로젝트용 활용자료
 - [고퀄리티⚡개발 컨텐츠 모음](https://github.com/Integerous/goQuality-dev-contents)

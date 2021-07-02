@@ -54,6 +54,10 @@ ___
 - [Brave Tech Interview](https://github.com/brave-people/brave-tech-interview)
 - [취준에 도움되는 링크 : 컴공편](https://velog.io/@woo0_hooo/%EC%BB%B4%EA%B3%B5-%EC%B7%A8%EC%A4%80%EC%83%9D%EC%97%90%EA%B2%8C-%EC%9C%A0%EC%9A%A9%ED%95%9C-%EB%A7%81%ED%81%AC%EB%93%A4-%EC%A0%95%EB%A6%AC?fbclid=IwAR339EMi0oyEgvOsWfGWRiZBYYDQj7WgivzZ4fD36g1VGSOvIencaqfsamM)
 - [개발자 행사모음 : Dev-Event](https://github.com/brave-people/Dev-Event)
+- [개발자를 위한 인프라 기초 총정리](https://futurecreator.github.io/2018/11/09/it-infrastructure-basics/?fbclid=IwAR3H6ENf-MgmDkhHPTUHw523o02sv6wi--_HVwsbcfYtoj4h8rAY4ScERqA)
+- [개발자를 위한 트렌드 2021](https://velog.io/@wooder2050/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%ED%8A%B8%EB%A0%8C%EB%93%9C2021?fbclid=IwAR0eqcHztAwVj3HKq8u0w5hhCJHFz6bZenPrEY_bIcoAblBNFThfeTmzVnU)
+- [신입 개발자를 위한 핵심 어드바이스](https://velog.io/@hyounglee/for-newbies?fbclid=IwAR3lRLCgw4Ns49uVO5l84MsN7ax3cW-ALGE97yy_E2cABIqhXn6TL9IpLEk)
+- 
 ___ 
 ### Ⅱ. 코딩 테스트 관련 자료
 - [이것이 코딩테스트다! 소스코드](https://github.com/ndb796/python-for-coding-test)
@@ -86,6 +90,8 @@ ___
 - [센스있는 ReadMe : Capsule-render](https://github.com/kyechan99/capsule-render)
 - [센스있는 ReadMe : Daily Coding Timer](https://github.com/techinpark/productive-box)
 - [online markdown Reader](https://dillinger.io/)
+- [Git Workflow Diagram](https://happygrammer.github.io/guide/git-workflow-diagram/?fbclid=IwAR0lhsmWxfWqcHNizGfvZNdVUoHjtqEYUuTrzWKWbb7zwsLEICAmFrJz1OE)
+- 
 ___ 
 ### Ⅴ. 프로그래밍 언어/분야별 활용자료
 ##### ⅰ. 공통
@@ -112,6 +118,7 @@ ___
 - [Animate.css : Useful CSS framework](https://animate.style/)
 - [Crayon.css : Useful CSS framework](https://riccardoscalco.it/crayon/)
 - [FlexBox 완전정복](https://studiomeal.com/archives/197)
+- [초보 웹 개발자를 위한 학습로드맵](https://subicura.com/2021/06/27/study-guide.html?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social)
 
 ##### ⅲ. 백엔드
 - [Backend-Interview-Question](https://github.com/ksundong/backend-interview-question)
